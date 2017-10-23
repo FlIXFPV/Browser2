@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project author="Felix" authorOS="Windows 10" createdAt="1502028792682" ideName="DevelNext" ideVersion="16.6.0" ideVersionHash="2017072312" name="порверяльшик интернета" packageName="app" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1508478578954">
+  <tree>
+    <expanded>
+    <path src=""/>
+      <path src="/src"/>
+      <path src="/src/.theme"/>
+      <path src="/src/app"/>
+      <path src="/src/app/forms"/>
+      <path src="/src/app/modules"/>
+    </expanded>
+  </tree>
+  <openedFiles>
+  <file src="порверяльшик интернета.dnproject"/>
+    <file src="src/app/modules/MainModule.php"/>
+    <file src="src/app/forms/broyser.php"/>
+    <file src="src/app/forms/Vibor.php"/>
+    <file src="src/app/forms/MainForm2.php"/>
+    <file selected="1" src="src/app/forms/information.php"/>
+    <file src="src/app/forms/settings.php"/>
+    <file src="src/app/modules/AppModule.php"/>
+    <file src="src/app/forms/downloader.php"/>
+  </openedFiles>
+  <files/>
+  <behaviours>
+  <behaviour class="ide\project\behaviours\BundleProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\PhpProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\JavaPlatformBehaviour"/>
+    <behaviour class="ide\project\behaviours\GuiFrameworkProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\RunBuildProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\ShareProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\GradleProjectBehaviour"/>
+  </behaviours>
+</project>
